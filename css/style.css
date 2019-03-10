@@ -1,0 +1,52 @@
+.margin-right {
+    margin-right: 9%;
+}
+
+.margin-left {
+    margin-left: 11%;
+}
+
+.color-transparency {
+    color: rgb(255, 255, 255, 0.5);
+}
+
+.card {
+    height: 227px;
+    width: 350px;
+    border-radius: 5px;
+    background-color: #CCCCCC;
+    margin-left: 30px;
+    color: #979797;
+    font-size: 35px;
+}
+
+.image {
+    height: 380px;
+    background-image: url("../images/pic.jpg");
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+}
+
+.middle {
+    padding-top: 150px;
+}
+
+.size {
+    font-size: 18px;
+}
+
+.card-deck .card {
+    background: transparent;
+    height: 320px;
+    width: 290px;
+}
+
+.padd {
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.footer-margin {
+    margin-top: 130px;
+}
